@@ -22,4 +22,11 @@ Esse processo envolveu tanto a criação dos arquivos necessários quanto a apli
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-  
+<h2> Imagens do Desafio </h2>
+
+![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio1/assets/120657741/3982892a-3b89-4973-b0a8-c0dbc8592619)
+![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio1/assets/120657741/c78e8274-e484-4659-b8aa-0d06d5772847)
+![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio1/assets/120657741/b545ff6b-109e-4d98-8c80-0d46aea1e12d)
+
+
+
