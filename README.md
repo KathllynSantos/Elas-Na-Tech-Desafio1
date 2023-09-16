@@ -12,3 +12,14 @@ Para garantir que as propriedades de estilo fossem aplicadas corretamente, fiz r
 Por fim, para validar o trabalho realizado, testei o resultado abrindo o arquivo <b>HTML</b> em um navegador da web. Certifiquei-me de que o layout reproduzisse fielmente o exemplo fornecido pela Professora Gil, com as cores escolhidas aplicadas de maneira precisa e esteticamente agradável.
 
 Esse processo envolveu tanto a criação dos arquivos necessários quanto a aplicação de conhecimentos em <b>HTML</b> e <b>CSS</b> para atingir o resultado desejado.</p>
+
+<h2> Resultado </h2> 
+<a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio1/" target="_blank"> Desafio 1</a>
+
+<h2> 💻 Tecnologias Utilizadas no Projeto</h2>
+
+<div stayle="display: inline_block"><br/>
+<img align="center" alt="CSS3" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="HTML5" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+  
