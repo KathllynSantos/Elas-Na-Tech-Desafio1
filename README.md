@@ -13,7 +13,7 @@ Por fim, para validar o trabalho realizado, testei o resultado abrindo o arquivo
 
 Esse processo envolveu tanto a criação dos arquivos necessários quanto a aplicação de conhecimentos em <b>HTML</b> e <b>CSS</b> para atingir o resultado desejado.</p>
 
-<h2> Resultado </h2> 
+<h2> 🌐 Resultado </h2> 
 <a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio1/" target="_blank"> Desafio 1</a>
 
 <h2> 💻 Tecnologias Utilizadas no Desafio</h2>
