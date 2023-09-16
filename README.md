@@ -16,10 +16,10 @@ Esse processo envolveu tanto a criação dos arquivos necessários quanto a apli
 <h2> Resultado </h2> 
 <a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio1/" target="_blank"> Desafio 1</a>
 
-<h2> 💻 Tecnologias Utilizadas no Projeto</h2>
+<h2> 💻 Tecnologias Utilizadas no Desafio</h2>
 
 <div stayle="display: inline_block"><br/>
-<img align="center" alt="CSS3" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="HTML5" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
   
