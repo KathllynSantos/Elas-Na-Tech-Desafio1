@@ -1,7 +1,7 @@
 <div>
 <div align="center"> <h1> 👩🏾‍💻Primeiro Desafio do Elas na Tech</h1> </div>
 
-<p>Para o desafio em questão, a tarefa consistia em reproduzir o layout <b>HTML</b>utilizando as cores de minha preferência, que foram selecionadas no site <a href=" https://color.adobe.com/pt/create/color-wheel" target="_blank"> Adobe Color </a>. O principal objetivo era criar dois arquivos, um arquivo <b>HTML</b> e um arquivo <b>CSS</b>, que resultassem em um layout idêntico ao exemplo fornecido pela Professora Gil durante a aula.
+<p>Para o desafio em questão, a tarefa consistia em reproduzir o layout <b>HTML</b> utilizando as cores de minha preferência, que foram selecionadas no site <a href=" https://color.adobe.com/pt/create/color-wheel" target="_blank"> Adobe Color </a>. O principal objetivo era criar dois arquivos, um arquivo <b>HTML</b> e um arquivo <b>CSS</b>, que resultassem em um layout idêntico ao exemplo fornecido pela Professora Gil durante a aula.
 
 Para começar, utilizei as cores escolhidas no site da Adobe para criar o arquivo <b>CSS</b>. Nesse arquivo, defini cuidadosamente as propriedades de estilo para cada elemento do layout, garantindo que as cores escolhidas fossem aplicadas de maneira coesa e harmoniosa.
 
